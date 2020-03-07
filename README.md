@@ -4,5 +4,5 @@
 
 Create a login page using bootstrap which looks like the below screenshot
 
-![bootstrap login page](images/bootstrap-login-page.png)
+![bootstrap login page](bootstrap-login-page.png)
 
